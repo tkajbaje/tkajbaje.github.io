@@ -15,7 +15,7 @@ website: tkajbaje.github.io
 darkmode: false
 
 # Social links
-github_username:  tkajbaje
+github_username: tkajbaje
 # stackoverflow_username: "00000001"
 # dribbble_username: jekyll
 # facebook_username: jekyll
@@ -45,10 +45,10 @@ linkedin_username: tanmaykajbaje
 # about_title: About Me
 about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
-    Hi, I am Tanmay Ashish Kajbaje, I am currently working at IBM India as Application Developer and previously worked at BMC Software. I am skilled in Core Java, Spring, Spring Boot, AWS.
+  Hi, I am Tanmay Ashish Kajbaje, I am currently working at IBM India as Application Developer and previously worked at BMC Software. I am skilled in Core Java, Spring, Spring Boot, AWS.
 
-  I am most skilled in: <mark>AWS</mark>,<mark>Core Java</mark> and <mark></mark>
-  
+  I am most skilled in: <mark>AWS</mar>,<mark>Core Java</mark> and <mark></mark>
+
 content:
   - title: Projects # Title for the section
     layout: list # Type of content section (list/text)
@@ -58,42 +58,44 @@ content:
         link: https://drive.google.com/drive/folders/10iQPYrRAZ98uMOC_vT-8OojYjL9NWkYj
         # link_text: Project Website
         #additional_links:
-         # - title:  sproogen/modern-resume-theme
-          #  icon: fab fa-github
-           # url: github.com/sproogen/modern-resume-theme
-          # - title:  Github page for project (eg. sproogen/modern-resume-theme)
-          #   icon: fab fa-github
-          #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)
+        # - title:  sproogen/modern-resume-theme
+        #  icon: fab fa-github
+        # url: github.com/sproogen/modern-resume-theme
+        # - title:  Github page for project (eg. sproogen/modern-resume-theme)
+        #   icon: fab fa-github
+        #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)
         quote: >
           This is a very interesting project I worked on, I enjoyed a lot while working on this project.
         description: | # this will include new lines to allow paragraphs
           Created an autonomous RC Car using Raspberry Pi 2 and arduino, Inspired by a project by Zheng Wang (https://zhengludwig.wordpress.com/projects/self-driving-rc-car/).Devised own solution for interfacing RC Car remote with arduino. Modified the python ML code to my needs.Trained the model with labelled images of the track beforehand and successfully executed many test runs of the car. Video Demonstration - https://youtu.be/NRaDYJhHhPE( May ’17)
-       - layout: top-middle
-        title: Face Recognition based Attendance system:
+
+      - layout: top-middle
+      - title: Face Recognition based Attendance system
         #link: https://drive.google.com/drive/folders/10iQPYrRAZ98uMOC_vT-8OojYjL9NWkYj
         # link_text: Project Website
         #additional_links:
-         # - title:  sproogen/modern-resume-theme
-          #  icon: fab fa-github
-           # url: github.com/sproogen/modern-resume-theme
-          # - title:  Github page for project (eg. sproogen/modern-resume-theme)
-          #   icon: fab fa-github
-          #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)
+        # - title:  sproogen/modern-resume-theme
+        #  icon: fab fa-github
+        # url: github.com/sproogen/modern-resume-theme
+        # - title:  Github page for project (eg. sproogen/modern-resume-theme)
+        #   icon: fab fa-github
+        #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)
         quote: >
           This was my university thesis project.
         description: | # this will include new lines to allow paragraphs
           Raspberry Pi based Face recognition based attendance system which uses face++ api.Created a WebApp for registration of new user.Also provided the facility of SMS notification of attendance logs.Used PHP,Python for scripting and Tkinter for UI.This project was done as an effort to fulfill requirement of implementing face recognition based attendance system at the university.(May ’19)
-       - layout: top-middle   
-        title: Malware Classifier using Machine Learning
+
+      - layout: top-middle
+      - title: Malware Classifier using Machine Learning
         #link: https://drive.google.com/drive/folders/10iQPYrRAZ98uMOC_vT-8OojYjL9NWkYj
         # link_text: Project Website
         #additional_links:
-         # - title:  sproogen/modern-resume-theme
-          #  icon: fab fa-github
-           # url: github.com/sproogen/modern-resume-theme
-          # - title:  Github page for project (eg. sproogen/modern-resume-theme)
-          #   icon: fab fa-github
-          #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)
+        # - title:  sproogen/modern-resume-theme
+        #  icon: fab fa-github
+        # url: github.com/sproogen/modern-resume-theme
+        # - title:  Github page for project (eg. sproogen/modern-resume-theme)
+        #   icon: fab fa-github
+        #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)
         quote: >
           This was a hobby project I made.
         description: | # this will include new lines to allow paragraphs
@@ -111,9 +113,9 @@ content:
         quote: >
           Working here and exploring many different areas of technology in each new project.
         description: | # this will include new lines to allow paragraphs
-           Undergone Training in Java FullStack Development.Worked as a Back-end Developer for more than 1 year. Currently working on AWS Cloud project in a DevOps role.
-       - layout: left
-        title: BMC Software.
+          Undergone Training in Java FullStack Development.Worked as a Back-end Developer for more than 1 year. Currently working on AWS Cloud project in a DevOps role.
+      - layout: left
+      - title: BMC Software.
         link: bmc.com
         # link_text: boringcompany.com
         sub_title: Graduate-Intern
@@ -122,7 +124,7 @@ content:
           Worked here as an intern and learnt about many things including client interaction and handling escalations.
         description: | # this will include new lines to allow paragraphs
           Worked on Windows KM and Application Performance Monitoring Tool. Handled Escalations.
-           
+
   - title: Education # Title for the section
     layout: list # Type of content section (list/text)
     content:
@@ -133,7 +135,6 @@ content:
         quote: >
           Dr. Babasaheb Ambedkar Technological University was established by Government of Maharashtra vide Dr. Babasaheb Ambedkar Technological University Act. No. XXII of 1989 as a Unitary University. Later, the Government of Maharashtra converted the University to the Affiliating Technological University in the year 2016 vide Maharashtra Act No. XXIX of 2014 with the jurisdiction of the University as the entire state of Maharashtra.
         #description: | # this will include new lines to allow paragraphs
-          
 
   - title: A Little More About Me
     layout: text
@@ -143,7 +144,6 @@ content:
       - Playing Guitar
       - Listening to Songs
       - Spending time with my family.
-
 
 # Footer
 footer_show_references: true
@@ -157,4 +157,4 @@ sass:
   style: compressed
 
 plugins:
- - jekyll-seo-tag
+  - jekyll-seo-tag
