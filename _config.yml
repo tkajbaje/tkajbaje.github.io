@@ -1,5 +1,5 @@
 # Site
-repository: tkajbaje/tkajbaje.github.io
+repository: sproogen/resume-theme
 favicon: images/favicon.ico
 
 # Content configuration version
@@ -68,7 +68,7 @@ content:
           This is a very interesting project I worked on, I enjoyed a lot while working on this project.
         description: | # this will include new lines to allow paragraphs
           Created an autonomous RC Car using Raspberry Pi 2 and arduino, Inspired by a project by Zheng Wang (https://zhengludwig.wordpress.com/projects/self-driving-rc-car/).Devised own solution for interfacing RC Car remote with arduino. Modified the python ML code to my needs.Trained the model with labelled images of the track beforehand and successfully executed many test runs of the car. Video Demonstration - https://youtu.be/NRaDYJhHhPE( May ’17)
-          
+       - layout: top-middle
         title: Face Recognition based Attendance system:
         #link: https://drive.google.com/drive/folders/10iQPYrRAZ98uMOC_vT-8OojYjL9NWkYj
         # link_text: Project Website
@@ -83,7 +83,7 @@ content:
           This was my university thesis project.
         description: | # this will include new lines to allow paragraphs
           Raspberry Pi based Face recognition based attendance system which uses face++ api.Created a WebApp for registration of new user.Also provided the facility of SMS notification of attendance logs.Used PHP,Python for scripting and Tkinter for UI.This project was done as an effort to fulfill requirement of implementing face recognition based attendance system at the university.(May ’19)
-          
+       - layout: top-middle   
         title: Malware Classifier using Machine Learning
         #link: https://drive.google.com/drive/folders/10iQPYrRAZ98uMOC_vT-8OojYjL9NWkYj
         # link_text: Project Website
@@ -112,7 +112,7 @@ content:
           Working here and exploring many different areas of technology in each new project.
         description: | # this will include new lines to allow paragraphs
            Undergone Training in Java FullStack Development.Worked as a Back-end Developer for more than 1 year. Currently working on AWS Cloud project in a DevOps role.
-         
+       - layout: left
         title: BMC Software.
         link: bmc.com
         # link_text: boringcompany.com
