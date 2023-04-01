@@ -47,7 +47,7 @@ about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
   Hi, I am Tanmay Ashish Kajbaje, I am currently working at IBM India as Application Developer and previously worked at BMC Software. I am skilled in Core Java, Spring, Spring Boot, AWS.
 
-  I am most skilled in: <mark>AWS</mar>,<mark>Core Java</mark> and <mark></mark>
+  I am most skilled in: <mark>AWS</mark> and <mark>Core Java</mark>
 
 content:
   - title: Projects # Title for the section
