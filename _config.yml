@@ -104,7 +104,7 @@ content:
   - title: Experience # Title for the section
     layout: list # Type of content section (list/text)
     content:
-      - layout: left
+      - layout: top-middle
         title: IBM India Pvt. Ltd.
         link: ibm.com
         # link_text: boringcompany.com
@@ -114,7 +114,7 @@ content:
           Working here and exploring many different areas of technology in each new project.
         description: | # this will include new lines to allow paragraphs
           Undergone Training in Java FullStack Development.Worked as a Back-end Developer for more than 1 year. Currently working on AWS Cloud project in a DevOps role.
-      - layout: left
+      - layout: top-middle
       - title: BMC Software.
         link: bmc.com
         # link_text: boringcompany.com
@@ -128,7 +128,7 @@ content:
   - title: Education # Title for the section
     layout: list # Type of content section (list/text)
     content:
-      - layout: left
+      - layout: top-middle
         title: Dr. Babasaheb Ambedkar Technological University
         caption: 2019
         sub_title: B.Tech Computer Engineering
