@@ -69,7 +69,7 @@ content:
         description: | # this will include new lines to allow paragraphs
           Created an autonomous RC Car using Raspberry Pi 2 and arduino, Inspired by a project by Zheng Wang (https://zhengludwig.wordpress.com/projects/self-driving-rc-car/).Devised own solution for interfacing RC Car remote with arduino. Modified the python ML code to my needs.Trained the model with labelled images of the track beforehand and successfully executed many test runs of the car. Video Demonstration - https://youtu.be/NRaDYJhHhPE( May ’17)
 
-    
+      - layout: top-middle
       - title: Face Recognition based Attendance system
         #link: https://drive.google.com/drive/folders/10iQPYrRAZ98uMOC_vT-8OojYjL9NWkYj
         # link_text: Project Website
