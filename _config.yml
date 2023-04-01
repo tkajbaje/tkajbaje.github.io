@@ -88,6 +88,7 @@ content:
 
 
       - title: Malware Classifier using Machine Learning
+        layout: top-middle
         #link: https://drive.google.com/drive/folders/10iQPYrRAZ98uMOC_vT-8OojYjL9NWkYj
         # link_text: Project Website
         #additional_links:
@@ -115,8 +116,9 @@ content:
           Working here and exploring many different areas of technology in each new project.
         description: | # this will include new lines to allow paragraphs
           Undergone Training in Java FullStack Development.Worked as a Back-end Developer for more than 1 year. Currently working on AWS Cloud project in a DevOps role.
-      - layout: top-middle
+   
       - title: BMC Software.
+        layout: top-middle
         link: bmc.com
         # link_text: boringcompany.com
         sub_title: Graduate-Intern
